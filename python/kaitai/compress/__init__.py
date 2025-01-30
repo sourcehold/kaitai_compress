@@ -4,3 +4,4 @@ from .lzma_raw import LzmaRaw
 from .lzma_lzma import LzmaLzma
 from .lzma_xz import LzmaXz
 from .brotli import Brotli
+from .dcl import DCL
